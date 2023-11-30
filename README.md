@@ -14,8 +14,6 @@ Visualização de postagem e interações a partir de likes. As postagem possuem
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-**Faça uma lista de tecnologias e técnicas utilizadas (a justificativa e descrição são opcionais)**:
-
 - `Jetpack Compose`
 - `State Management`
 - `VerticalPager`
